@@ -49,4 +49,23 @@ Dynamic websites respond to user actions to display the relevant content in an a
 Before going into the in-depth discussion, you might be interested in looking at the eCommerce  app development  summary. Here, I arranged the significant points in a chart to quickly understand the basics of eCommerce application development. Find a quick idea about eCommerce apps development from the summary of e-commerce application development guidelines.
 Ticketing and Auctioning eCommerce App Development.
 
+A Server is the keeper of your application. And a group of tech    
+tools and frameworks used to develop the server-side part. It is   
+known as the back-end technolgy 
+
+ The applications are hosted on a server.
+ -  A visitor navigates to a page in her browser.
+ -  The application starts.
+  - The application checks what page was requested.
+  - The application generates an HTML document and sends that document back to the visitor.
+  - The HLML document is shown inside the visitor’s browser
+
+Backend applications manage data (e.g., product details) and generate HTML pages.
+Administrative interfaces allow adding and changing products, and site-wide templates streamline page creation HTML (Hypertext Markup Language): Provides the structure and content of webpages.
+CSS (Cascading Style Sheets): Used for styling webpages, making them visually appealing.
+Java:Adds interactivity, enabling features like product selection, shopping carts, and user authentication.
+
+
+
+
 
