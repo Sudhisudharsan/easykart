@@ -45,6 +45,7 @@ Dynamic websites respond to user actions to display the relevant content in an a
 - Handle errors in the output
 - Render output of apis to different low level components
 - Secure content of post apis
+
 Before going into the in-depth discussion, you might be interested in looking at the eCommerce  app development  summary. Here, I arranged the significant points in a chart to quickly understand the basics of eCommerce application development. Find a quick idea about eCommerce apps development from the summary of e-commerce application development guidelines.
 Ticketing and Auctioning eCommerce App Development.
 
