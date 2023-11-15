@@ -36,4 +36,16 @@ Think of the frontend as the digital storefront of an ecommerce site. It encompa
 - Identify conversion rates.
 - Measure ROI and profits. 
 
-It encompasses all the parts of the store that the customer engages with, such as site design, fonts, colors, images and product pages. As the client-side of the website, frontend technology is all about creating a functional and engaging customer experience.
+It encompasses all the parts of the store that the customer engages with, such as site design, fonts, colors, images and product pages. As the client-side of the website, frontend technology is all about creating a functional and engaging customer experience. 
+
+A dynamic website is a site that generates pages in real time, responding to dynamic characteristics such as screen size and device type. The structure and content of a dynamic web page are flexible, allowing you to customize the end-user’s experience based on the browser or requests.
+Dynamic websites respond to user actions to display the relevant content in an appropriate format. The extent of the change the website can handle differs according to the intricacy of the website’s interactive components and the developer’s skill video sharing, web applications, and digital commerce websites.
+- Point base api to the severs base url 
+- Design api calls for each element 
+- Handle errors in the output
+- Render output of apis to different low level components
+- Secure content of post apis
+Before going into the in-depth discussion, you might be interested in looking at the eCommerce  app development  summary. Here, I arranged the significant points in a chart to quickly understand the basics of eCommerce application development. Find a quick idea about eCommerce apps development from the summary of e-commerce application development guidelines.
+Ticketing and Auctioning eCommerce App Development.
+
+
