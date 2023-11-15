@@ -37,6 +37,3 @@ Think of the frontend as the digital storefront of an ecommerce site. It encompa
 -Measure ROI and profits. 
 
 It encompasses all the parts of the store that the customer engages with, such as site design, fonts, colors, images and product pages. As the client-side of the website, frontend technology is all about creating a functional and engaging customer experience.
-
-
-
