@@ -26,3 +26,17 @@ E-commerce (electronic commerce) is the buying and selling of goods and services
 - Frontend developers often manage this side of the website using programming languages like HTML, JavaScript and CSS.
  
   Always display your business phone number and address prominently on the homepage. It helps increase conversions because customers can call for answers to any questions that might be hindering their decision to buy. Put the phone number on both the top and bottom
+  
+Think of the frontend as the digital storefront of an ecommerce site. It encompasses all the parts of the store that the customer engages with, such as site design, fonts, colors, images and product 
+
+-Performance.
+-Measure your audience reach and impact.
+-Analyze traffic sources.
+-Measure average session time and bounce rate. 
+-Identify conversion rates.
+-Measure ROI and profits. 
+
+It encompasses all the parts of the store that the customer engages with, such as site design, fonts, colors, images and product pages. As the client-side of the website, frontend technology is all about creating a functional and engaging customer experience.
+
+
+
