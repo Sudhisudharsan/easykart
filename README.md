@@ -1,71 +1,70 @@
-# easykart
-A very important and basic need of today’s modern business world
-is the quick availability and processing of information using
-computer. The project that I have taken is also in this category which
-is used in our daily life whenever we want to purchase some items,
-we can easily get them at our home.
+# Getting Started with Create React App
 
-- LOGIN MODULE
-- PRODUCT DETAILS MODULE
-- COMMENT SECTION
-- RANSACTION MODULE
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The project, developed using PHP and MySQL is based
-on the requirement specification of the user and the
-analysis of the existing system, with flexibility for future
-enhancement. The expanded functionality of today’s
-software requires an appropriate approach towards
-software development. This ecommerce software is
-designed E-commerce site project is developed using PHP,
-CSS, Bootstrap, and JavaScript
+## Available Scripts
 
-E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet. These business transactions occur either as business-to-business (B2B), business-to-consumer (B2C), consumer-to-consumer or consumer-to-business. The terms ecommerce and e-business are often used interchangeably. The term e-tail is also sometimes used in reference to the transactional processes for online shopping. The “Ecommerce” is developed according the current need in different Fields. This is Ecommerce Website which provides facility for purchasing Mobiles, Laptops, tabs and many more items. So, by using this system users which want to purchase some products will first Register an account on this portal then Login through their Username and Password, and then Select items which they want to purchase and add them to cart and finally checkout by giving payment details. So, by using this portal users can easily purchase products from their home.
+In the project directory, you can run:
 
-- it encompasses all the parts of the store that the customer engages with, such as site design, fonts, colors, images and product pages.
-- As the client-side of the website, frontend technology is all about creating a functional and engaging customer experience.
-- Frontend developers often manage this side of the website using programming languages like HTML, JavaScript and CSS.
- 
-  Always display your business phone number and address prominently on the homepage. It helps increase conversions because customers can call for answers to any questions that might be hindering their decision to buy. Put the phone number on both the top and bottom
-  
-Think of the frontend as the digital storefront of an ecommerce site. It encompasses all the parts of the store that the customer engages with, such as site design, fonts, colors, images and product 
+### `npm start`
 
-- Performance.
-- Measure your audience reach and impact.
-- Analyze traffic sources.
-- Measure average session time and bounce rate. 
-- Identify conversion rates.
-- Measure ROI and profits. 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-It encompasses all the parts of the store that the customer engages with, such as site design, fonts, colors, images and product pages. As the client-side of the website, frontend technology is all about creating a functional and engaging customer experience. 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-A dynamic website is a site that generates pages in real time, responding to dynamic characteristics such as screen size and device type. The structure and content of a dynamic web page are flexible, allowing you to customize the end-user’s experience based on the browser or requests.
-Dynamic websites respond to user actions to display the relevant content in an appropriate format. The extent of the change the website can handle differs according to the intricacy of the website’s interactive components and the developer’s skill video sharing, web applications, and digital commerce websites.
-- Point base api to the severs base url 
-- Design api calls for each element 
-- Handle errors in the output
-- Render output of apis to different low level components
-- Secure content of post apis
+### `npm test`
 
-Before going into the in-depth discussion, you might be interested in looking at the eCommerce  app development  summary. Here, I arranged the significant points in a chart to quickly understand the basics of eCommerce application development. Find a quick idea about eCommerce apps development from the summary of e-commerce application development guidelines.
-Ticketing and Auctioning eCommerce App Development.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-A Server is the keeper of your application. And a group of tech    
-tools and frameworks used to develop the server-side part. It is   
-known as the back-end technolgy 
+### `npm run build`
 
- The applications are hosted on a server.
- -  A visitor navigates to a page in her browser.
- -  The application starts.
-  - The application checks what page was requested.
-  - The application generates an HTML document and sends that document back to the visitor.
-  - The HLML document is shown inside the visitor’s browser
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Backend applications manage data (e.g., product details) and generate HTML pages.
-Administrative interfaces allow adding and changing products, and site-wide templates streamline page creation HTML (Hypertext Markup Language): Provides the structure and content of webpages.
-CSS (Cascading Style Sheets): Used for styling webpages, making them visually appealing.
-Java:Adds interactivity, enabling features like product selection, shopping carts, and user authentication.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
